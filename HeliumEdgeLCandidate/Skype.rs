@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Skype</name>
+   <tag></tag>
+   <elementGuidId>ab398930-eeef-4285-b5c0-65fcbd15e4a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[9]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[9]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+   </webElementProperties>
+</WebElementEntity>

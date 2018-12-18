@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Image</name>
+   <tag></tag>
+   <elementGuidId>27064d25-96b1-4fae-a202-a82a3a5972cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[1]/he-photo-upload/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[1]/he-photo-upload/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

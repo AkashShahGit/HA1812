@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>El</name>
+   <tag></tag>
+   <elementGuidId>48c4b27a-3aa2-43e4-96b0-f0719eeb92e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[6]/he-select[2]/div/form/div/mat-form-field/div/div[1]/div[3]/mat-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[6]/he-select[2]/div/form/div/mat-form-field/div/div[1]/div[3]/mat-select</value>
+   </webElementProperties>
+</WebElementEntity>

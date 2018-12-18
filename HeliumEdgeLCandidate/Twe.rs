@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Twe</name>
+   <tag></tag>
+   <elementGuidId>38279571-0b47-4ff1-83d1-6932171139d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[6]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[6]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

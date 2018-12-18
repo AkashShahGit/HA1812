@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SalaryErrorMEssage</name>
+   <tag></tag>
+   <elementGuidId>faac1dbc-a019-4e02-a371-5bb1eacec273</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;jobForm&quot;]/div[1]/div[1]/div[4]/he-salary-form/div/form/div/he-textfield[2]/div/form/div/mat-form-field/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;jobForm&quot;]/div[1]/div[1]/div[4]/he-salary-form/div/form/div/he-textfield[2]/div/form/div/mat-form-field/div/div[2]/div</value>
+   </webElementProperties>
+</WebElementEntity>

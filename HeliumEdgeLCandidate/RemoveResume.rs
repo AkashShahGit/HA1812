@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RemoveResume</name>
+   <tag></tag>
+   <elementGuidId>42c634db-e5d2-4176-9c35-cd7877a10f10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[1]/div[2]/div[1]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[1]/div[2]/div[1]/div/span</value>
+   </webElementProperties>
+</WebElementEntity>

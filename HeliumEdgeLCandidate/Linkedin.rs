@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Linkedin</name>
+   <tag></tag>
+   <elementGuidId>88f73a5b-47e2-4841-a40b-39b12f50040c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[8]/he-textfield[1]/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[8]/he-textfield[1]/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CandidateTitle</name>
+   <tag></tag>
+   <elementGuidId>bf9ce403-c837-4d5b-91c2-9d4b750cdcb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[3]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[3]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

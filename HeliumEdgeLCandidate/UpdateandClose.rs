@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UpdateandClose</name>
+   <tag></tag>
+   <elementGuidId>5dbfe5e0-aa0d-4f19-a16f-747d1179c5a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-1&quot;]/he-candidate-creation-page/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-1&quot;]/he-candidate-creation-page/div/div/div/div/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TweMS</name>
+   <tag></tag>
+   <elementGuidId>060f0ea6-2226-42f9-b6ca-6f77b8e5a08b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;cdk-overlay-15&quot;]/div/div/mat-option[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;cdk-overlay-15&quot;]/div/div/mat-option[4]</value>
+   </webElementProperties>
+</WebElementEntity>

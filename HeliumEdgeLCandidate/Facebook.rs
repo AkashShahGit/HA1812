@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Facebook</name>
+   <tag></tag>
+   <elementGuidId>50669e08-e6bf-45b9-8926-56ecea5a028b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[8]/he-textfield[2]/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[8]/he-textfield[2]/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+   </webElementProperties>
+</WebElementEntity>

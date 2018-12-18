@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MiddleName</name>
+   <tag></tag>
+   <elementGuidId>353c45c0-20bb-4a2d-bc35-6dc3954812fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;candidateForm&quot;]/div/div[2]/he-textfield[2]/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;candidateForm&quot;]/div/div[2]/he-textfield[2]/div/form/div/mat-form-field/div/div[1]/div[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

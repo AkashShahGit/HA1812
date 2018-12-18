@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Previous</name>
+   <tag></tag>
+   <elementGuidId>20737231-7570-4cbf-887f-e8e873b56143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-0&quot;]/he-job-creation-page/div/div/div/div/div[2]/button[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-0&quot;]/he-job-creation-page/div/div/div/div/div[2]/button[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>

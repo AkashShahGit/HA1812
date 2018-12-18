@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ConfirmButton</name>
+   <tag></tag>
+   <elementGuidId>bd2502e9-02e0-4709-92e9-85345d762a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-2&quot;]/he-dialog/div/mat-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-2&quot;]/he-dialog/div/mat-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
