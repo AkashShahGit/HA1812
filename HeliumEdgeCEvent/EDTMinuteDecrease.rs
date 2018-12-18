@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EDTMinuteDecrease</name>
+   <tag></tag>
+   <elementGuidId>ad2374ea-d6b8-4945-bfd8-a23a81e14b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/owl-date-time-timer/owl-date-time-timer-box[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/owl-date-time-timer/owl-date-time-timer-box[2]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

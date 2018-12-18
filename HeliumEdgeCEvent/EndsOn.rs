@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EndsOn</name>
+   <tag></tag>
+   <elementGuidId>e0db915c-af80-4db2-97ce-e01d029bce82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-2&quot;]/he-task-recurrence/div/div[1]/div[2]/mat-radio-group/div/mat-form-field/div/div[1]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-2&quot;]/he-task-recurrence/div/div[1]/div[2]/mat-radio-group/div/mat-form-field/div/div[1]/div[3]</value>
+   </webElementProperties>
+</WebElementEntity>

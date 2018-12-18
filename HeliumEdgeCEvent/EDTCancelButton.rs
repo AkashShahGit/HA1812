@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EDTCancelButton</name>
+   <tag></tag>
+   <elementGuidId>4d2f4ad4-7f4c-4ead-b8f9-2c22a6bbf186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/div/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

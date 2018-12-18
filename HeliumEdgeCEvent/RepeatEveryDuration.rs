@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RepeatEveryDuration</name>
+   <tag></tag>
+   <elementGuidId>fa9aee30-a086-40d5-b52a-d4baf983577e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-2&quot;]/he-task-recurrence/div/div[1]/div[1]/div/he-select/div/form/div/mat-form-field/div/div[1]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-2&quot;]/he-task-recurrence/div/div[1]/div[1]/div/he-select/div/form/div/mat-form-field/div/div[1]/div[3]</value>
+   </webElementProperties>
+</WebElementEntity>

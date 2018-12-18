@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddExtention</name>
+   <tag></tag>
+   <elementGuidId>38d1e247-3329-4d32-9eb9-ad0ee26cfaf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;form&quot;]/div[3]/div/div/div/mat-form-field[3]/div/div[1]/div[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;form&quot;]/div[3]/div/div/div/mat-form-field[3]/div/div[1]/div[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

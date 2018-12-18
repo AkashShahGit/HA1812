@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LinkCompanyS</name>
+   <tag></tag>
+   <elementGuidId>037444e7-ce62-452c-8532-6ad49d2700ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/he-event-creation-page/div/mat-dialog-content/form/div[11]/div/div/tag-input/tag-input-dropdown/ng2-dropdown/div/ng2-dropdown-menu/div/div/ng2-menu-item[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng2-menu-item ng2-menu-item--selected</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malabar Fashion</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/he-event-creation-page[@class=&quot;ng-tns-c26-17 ng-star-inserted&quot;]/div[@class=&quot;create-event-dialog-parent-container&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content&quot;]/form[@class=&quot;event-form ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;column ng-tns-c26-17 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c26-17 ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c26-17 ng-pristine ng-valid ng-touched&quot;]/tag-input[@class=&quot;tags-input-field ng-tns-c35-26 ng-pristine ng-valid ng-touched&quot;]/tag-input-dropdown[@class=&quot;ng-tns-c26-17&quot;]/ng2-dropdown[1]/div[@class=&quot;ng2-dropdown-container&quot;]/ng2-dropdown-menu[@class=&quot;ng-tns-c44-27 ng-star-inserted&quot;]/div[@class=&quot;ng2-dropdown-menu ng2-dropdown-menu---width--4 ng2-dropdown-menu--inside-element ng-trigger ng-trigger-fade ng2-dropdown-menu--open&quot;]/div[@class=&quot;ng2-dropdown-menu__options-container ng-trigger ng-trigger-opacity&quot;]/ng2-menu-item[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng2-menu-item ng2-menu-item--selected&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/he-event-creation-page/div/mat-dialog-content/form/div[11]/div/div/tag-input/tag-input-dropdown/ng2-dropdown/div/ng2-dropdown-menu/div/div/ng2-menu-item[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malabar Fashion'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job'])[1]/following::div[18]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malabar Fashion'])[3]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//ng2-menu-item[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

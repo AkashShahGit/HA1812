@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LinkCompanyS1</name>
+   <tag></tag>
+   <elementGuidId>61156de2-becb-4e45-bb2e-a83924e61fe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/ng2-dropdown-menu[1]/div[1]/div/ng2-menu-item[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/ng2-dropdown-menu[1]/div[1]/div/ng2-menu-item[1]/div</value>
+   </webElementProperties>
+</WebElementEntity>

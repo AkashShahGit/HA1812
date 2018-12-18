@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EDTHoursDecrease</name>
+   <tag></tag>
+   <elementGuidId>6d2067df-865d-46c7-810b-1b119ae3db49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/owl-date-time-timer/owl-date-time-timer-box[1]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;owl-dt-picker-1&quot;]/div[2]/owl-date-time-timer/owl-date-time-timer-box[1]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
