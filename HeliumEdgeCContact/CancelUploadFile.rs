@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CancelUploadFile</name>
+   <tag></tag>
+   <elementGuidId>a9de7f94-79df-45f7-8d5d-8d52ce490e58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contactForm&quot;]/div/div[1]/div[1]/div[2]/he-photo-upload/div/div/div/mat-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contactForm&quot;]/div/div[1]/div[1]/div[2]/he-photo-upload/div/div/div/mat-icon</value>
+   </webElementProperties>
+</WebElementEntity>

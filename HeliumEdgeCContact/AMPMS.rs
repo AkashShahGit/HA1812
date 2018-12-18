@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AMPMS</name>
+   <tag></tag>
+   <elementGuidId>46501ac2-b28f-4357-9211-11ea1d27fb8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;cdk-overlay-12&quot;]/div/div/mat-option[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;cdk-overlay-12&quot;]/div/div/mat-option[2]</value>
+   </webElementProperties>
+</WebElementEntity>

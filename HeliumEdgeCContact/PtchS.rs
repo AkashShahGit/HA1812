@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PtchS</name>
+   <tag></tag>
+   <elementGuidId>6a9f7cfe-9761-498b-83b6-b8eee40c91df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;cdk-overlay-10&quot;]/div/div/mat-option[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;cdk-overlay-10&quot;]/div/div/mat-option[4]</value>
+   </webElementProperties>
+</WebElementEntity>

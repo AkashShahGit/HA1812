@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tag</name>
+   <tag></tag>
+   <elementGuidId>7b57a3c4-591b-413b-a0c0-4e99ec73139c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contactForm&quot;]/div/div[7]/div[2]/tag-input/div/div/tag-input-form/form/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contactForm&quot;]/div/div[7]/div[2]/tag-input/div/div/tag-input-form/form/input</value>
+   </webElementProperties>
+</WebElementEntity>

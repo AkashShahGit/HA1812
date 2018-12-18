@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Linkedin</name>
+   <tag></tag>
+   <elementGuidId>052dbb85-6a6d-4797-b544-cfa1850b77e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contactForm&quot;]/div/div[5]/div[2]/div[1]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contactForm&quot;]/div/div[5]/div[2]/div[1]/he-textfield/div/form/div/mat-form-field/div/div[1]/div[4]/input</value>
+   </webElementProperties>
+</WebElementEntity>

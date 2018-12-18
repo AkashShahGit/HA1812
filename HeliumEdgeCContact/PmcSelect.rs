@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PmcSelect</name>
+   <tag></tag>
+   <elementGuidId>f05d8411-e845-4f8a-b54b-1e88e4c3d259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;cdk-overlay-9&quot;]/div/div/mat-option[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;cdk-overlay-9&quot;]/div/div/mat-option[3]</value>
+   </webElementProperties>
+</WebElementEntity>

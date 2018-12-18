@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Saveandclose</name>
+   <tag></tag>
+   <elementGuidId>1a0f30c4-49dd-48fe-9d33-9adeacecb706</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-0&quot;]/he-contact-creation-page/div/div/mat-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-0&quot;]/he-contact-creation-page/div/div/mat-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>
