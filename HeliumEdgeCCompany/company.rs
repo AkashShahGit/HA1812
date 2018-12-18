@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>company</name>
+   <tag></tag>
+   <elementGuidId>234e30ac-0719-4c27-8b32-b2d3d1356bef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sideMenu&quot;]/div[1]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M89,89h25v31h51V14h-16V0H55v14H39v106h50V89z M126,29h24v16h-24V29z M126,59h24v16h-24V59z M126,89h24v16h-24V89z M89,29   h25v16H89V29z M89,59h25v16H89V59z M77,105H53V89h24V105z M77,75H53V59h24V75z M77,45H53V29h24V45z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sideMenu&quot;]/div[1]/div/ul/li[3]/a</value>
+   </webElementProperties>
+</WebElementEntity>
