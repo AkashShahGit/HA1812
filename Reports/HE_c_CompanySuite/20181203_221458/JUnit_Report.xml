@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="HE_c_CompanySuite" time="243" tests="3" failures="0" errors="0">
+   <testsuite name="HE_c_CompanySuite" tests="3" failures="0" errors="0" time="243" timestamp="2018-12-03 22:15:04" hostname="admin - DESKTOP-FJO92VH" id="Test Suites/HE_c_CompanySuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_c_CompanySuite\\20181203_221458"/>
+         <property name="logFiles" value="C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_c_CompanySuite\\20181203_221458\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="admin - DESKTOP-FJO92VH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.0.1"/>
+         <property name="browser" value="Chrome 70.0.3538.110"/>
+         <property name="hostAddress" value="192.168.43.142"/>
+         <property name="sessionId" value="c1deba3fe81385dab7b5ae8499fef25c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/HeliumEdge_c_Company/HECC_001" classname="Test Cases/HeliumEdge_c_Company/HECC_001" status="PASSED">
+         <system-out><![CDATA[2018-12-03 22:15:05 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_c_Company/HECC_001: Test Cases/HeliumEdge_c_Company/HECC_001
+
+2018-12-03 22:15:07 - [TEST_STEP][PASSED] - callTestCase(findTestCase("HeliumEdge_Login/HEL_001"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:15:07 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_Login/HEL_001: Test Cases/HeliumEdge_Login/HEL_001
+
+2018-12-03 22:15:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-12-03 22:15:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-03 22:15:09 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-12-03 22:15:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-03 22:15:16 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-12-03 22:15:17 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-03 22:15:17 - [TEST_STEP][PASSED] - navigateToUrl(HeliumURL): Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:15:30 - [MESSAGE][PASSED] - Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:15:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:15:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:15:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/HeliumEdgeLogin/Email"), "bharatpatel@heliumedge.com"): Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:15:34 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:15:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:15:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:15:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/HeliumEdgeLogin/Password"), "5aLQ3jby8vDK+DxezdXnZw=="): Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:15:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:15:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:15:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:15:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeLogin/LoginButton")): Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:15:39 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:15:39 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-12-03 22:15:43 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-03 22:15:43 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:15:43 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2018-12-03 22:15:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-03 22:15:48 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Plus")): Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:15:48 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:15:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:15:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:15:51 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/company")): Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:15:52 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:15:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:15:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:15:56 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/CompanyName"), "Malabar Fashion"): Text 'Malabar Fashion' is set on object 'Object Repository/HeliumEdgeCCompany/CompanyName'
+
+2018-12-03 22:15:57 - [MESSAGE][PASSED] - Text 'Malabar Fashion' is set on object 'Object Repository/HeliumEdgeCCompany/CompanyName'
+
+2018-12-03 22:15:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:00 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Email"), "john@gmail.com"): Text 'john@gmail.com' is set on object 'Object Repository/HeliumEdgeCCompany/Email'
+
+2018-12-03 22:16:01 - [MESSAGE][PASSED] - Text 'john@gmail.com' is set on object 'Object Repository/HeliumEdgeCCompany/Email'
+
+2018-12-03 22:16:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:04 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Industry")): Object: 'Object Repository/HeliumEdgeCCompany/Industry' is clicked on
+
+2018-12-03 22:16:04 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Industry' is clicked on
+
+2018-12-03 22:16:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:07 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Industry_Advertise")): Object: 'Object Repository/HeliumEdgeCCompany/Industry_Advertise' is clicked on
+
+2018-12-03 22:16:07 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Industry_Advertise' is clicked on
+
+2018-12-03 22:16:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:10 - [TEST_STEP][PASSED] - scrollToPosition(50, 60): Browser is scrolled to position x = 50, y = 60
+
+2018-12-03 22:16:11 - [MESSAGE][PASSED] - Browser is scrolled to position x = 50, y = 60
+
+2018-12-03 22:16:11 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Address"), "Block Island, Rhode Island, Washington- 2807"): Text 'Block Island, Rhode Island, Washington- 2807' is set on object 'Object Repository/HeliumEdgeCCompany/Address'
+
+2018-12-03 22:16:13 - [MESSAGE][PASSED] - Text 'Block Island, Rhode Island, Washington- 2807' is set on object 'Object Repository/HeliumEdgeCCompany/Address'
+
+2018-12-03 22:16:13 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-12-03 22:16:17 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-03 22:16:17 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/AddressSelector")): Object: 'Object Repository/HeliumEdgeCCompany/AddressSelector' is clicked on
+
+2018-12-03 22:16:17 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/AddressSelector' is clicked on
+
+2018-12-03 22:16:17 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:20 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:20 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Phone"), "1234567890"): Text '1234567890' is set on object 'Object Repository/HeliumEdgeCCompany/Phone'
+
+2018-12-03 22:16:21 - [MESSAGE][PASSED] - Text '1234567890' is set on object 'Object Repository/HeliumEdgeCCompany/Phone'
+
+2018-12-03 22:16:21 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-12-03 22:16:25 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-03 22:16:25 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/PhoneExt"), "12345"): Text '12345' is set on object 'Object Repository/HeliumEdgeCCompany/PhoneExt'
+
+2018-12-03 22:16:26 - [MESSAGE][PASSED] - Text '12345' is set on object 'Object Repository/HeliumEdgeCCompany/PhoneExt'
+
+2018-12-03 22:16:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:29 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Fax"), "123456789012345"): Text '123456789012345' is set on object 'Object Repository/HeliumEdgeCCompany/Fax'
+
+2018-12-03 22:16:30 - [MESSAGE][PASSED] - Text '123456789012345' is set on object 'Object Repository/HeliumEdgeCCompany/Fax'
+
+2018-12-03 22:16:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:33 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Linkedin"), "https://linkedin.com/john"): Text 'https://linkedin.com/john' is set on object 'Object Repository/HeliumEdgeCCompany/Linkedin'
+
+2018-12-03 22:16:34 - [MESSAGE][PASSED] - Text 'https://linkedin.com/john' is set on object 'Object Repository/HeliumEdgeCCompany/Linkedin'
+
+2018-12-03 22:16:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:37 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Facebook"), "https://www.facebook.com/john"): Text 'https://www.facebook.com/john' is set on object 'Object Repository/HeliumEdgeCCompany/Facebook'
+
+2018-12-03 22:16:38 - [MESSAGE][PASSED] - Text 'https://www.facebook.com/john' is set on object 'Object Repository/HeliumEdgeCCompany/Facebook'
+
+2018-12-03 22:16:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:41 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Skype"), "john001"): Text 'john001' is set on object 'Object Repository/HeliumEdgeCCompany/Skype'
+
+2018-12-03 22:16:42 - [MESSAGE][PASSED] - Text 'john001' is set on object 'Object Repository/HeliumEdgeCCompany/Skype'
+
+2018-12-03 22:16:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:45 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Website"), "www.john.com"): Text 'www.john.com' is set on object 'Object Repository/HeliumEdgeCCompany/Website'
+
+2018-12-03 22:16:45 - [MESSAGE][PASSED] - Text 'www.john.com' is set on object 'Object Repository/HeliumEdgeCCompany/Website'
+
+2018-12-03 22:16:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:48 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/Pfc"), "5000"): Text '5000' is set on object 'Object Repository/HeliumEdgeCCompany/Pfc'
+
+2018-12-03 22:16:49 - [MESSAGE][PASSED] - Text '5000' is set on object 'Object Repository/HeliumEdgeCCompany/Pfc'
+
+2018-12-03 22:16:49 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:52 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Paymentterms")): Object: 'Object Repository/HeliumEdgeCCompany/Paymentterms' is clicked on
+
+2018-12-03 22:16:52 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Paymentterms' is clicked on
+
+2018-12-03 22:16:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:55 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/pmttermselect")): Object: 'Object Repository/HeliumEdgeCCompany/pmttermselect' is clicked on
+
+2018-12-03 22:16:55 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/pmttermselect' is clicked on
+
+2018-12-03 22:16:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:16:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:16:58 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/contact"), "j"): Text 'j' is set on object 'Object Repository/HeliumEdgeCCompany/contact'
+
+2018-12-03 22:16:59 - [MESSAGE][PASSED] - Text 'j' is set on object 'Object Repository/HeliumEdgeCCompany/contact'
+
+2018-12-03 22:16:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:17:02 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/contactselect")): Object: 'Object Repository/HeliumEdgeCCompany/contactselect' is clicked on
+
+2018-12-03 22:17:02 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/contactselect' is clicked on
+
+2018-12-03 22:17:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:17:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeCCompany/Role")): Object: 'Object Repository/HeliumEdgeCCompany/Role' is clicked on
+
+2018-12-03 22:17:06 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Role' is clicked on
+
+2018-12-03 22:17:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:17:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:17:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeCCompany/RoleSelector")): Object: 'Object Repository/HeliumEdgeCCompany/RoleSelector' is clicked on
+
+2018-12-03 22:17:08 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/RoleSelector' is clicked on
+
+2018-12-03 22:17:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:17:11 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Description")): Object: 'Object Repository/HeliumEdgeCCompany/Description' is clicked on
+
+2018-12-03 22:17:11 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Description' is clicked on
+
+2018-12-03 22:17:11 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:14 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:17:14 - [TEST_STEP][PASSED] - setText(findTestObject("HeliumEdgeCCompany/DescriptionEnter"), "This is a Description...!"): Text 'This is a Description...!' is set on object 'Object Repository/HeliumEdgeCCompany/DescriptionEnter'
+
+2018-12-03 22:17:15 - [MESSAGE][PASSED] - Text 'This is a Description...!' is set on object 'Object Repository/HeliumEdgeCCompany/DescriptionEnter'
+
+2018-12-03 22:17:15 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Saveandclose")): Object: 'Object Repository/HeliumEdgeCCompany/Saveandclose' is clicked on
+
+2018-12-03 22:17:16 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Saveandclose' is clicked on
+
+2018-12-03 22:17:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:19 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/HeliumEdge_c_Company/HECC_002" classname="Test Cases/HeliumEdge_c_Company/HECC_002" status="PASSED">
+         <system-out><![CDATA[2018-12-03 22:17:19 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_c_Company/HECC_002: Test Cases/HeliumEdge_c_Company/HECC_002
+
+2018-12-03 22:17:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("HeliumEdge_Login/HEL_001"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:17:20 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_Login/HEL_001: Test Cases/HeliumEdge_Login/HEL_001
+
+2018-12-03 22:17:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-12-03 22:17:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-12-03 22:17:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-03 22:17:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-03 22:17:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-12-03 22:17:25 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-03 22:17:25 - [TEST_STEP][PASSED] - navigateToUrl(HeliumURL): Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:17:41 - [MESSAGE][PASSED] - Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:17:41 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:17:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:17:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/HeliumEdgeLogin/Email"), "bharatpatel@heliumedge.com"): Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:17:45 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:17:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:17:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:17:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/HeliumEdgeLogin/Password"), "5aLQ3jby8vDK+DxezdXnZw=="): Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:17:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:17:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:17:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:17:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeLogin/LoginButton")): Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:17:50 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-12-03 22:17:54 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-03 22:17:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:17:54 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2018-12-03 22:17:59 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-03 22:17:59 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Plus")): Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:17:59 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:17:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:18:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:18:02 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/company")): Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:18:03 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:18:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:18:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:18:06 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Saveandclose")): Object: 'Object Repository/HeliumEdgeCCompany/Saveandclose' is clicked on
+
+2018-12-03 22:18:06 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Saveandclose' is clicked on
+
+2018-12-03 22:18:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:18:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:18:09 - [TEST_STEP][PASSED] - CompanyNameV = getText(findTestObject("Object Repository/HeliumEdgeCCompanyValidations/M_Comapnyname")): Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Comapnyname' is: 'Company Name is a mandatory field'
+
+2018-12-03 22:18:09 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Comapnyname' is: 'Company Name is a mandatory field'
+
+2018-12-03 22:18:09 - [TEST_STEP][PASSED] - println(CompanyNameV): null
+
+2018-12-03 22:18:09 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2018-12-03 22:18:10 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 22:18:10 - [TEST_STEP][PASSED] - EmailV = getText(findTestObject("Object Repository/HeliumEdgeCCompanyValidations/M_Emailid")): Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Emailid' is: 'Email is a mandatory field'
+
+2018-12-03 22:18:10 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Emailid' is: 'Email is a mandatory field'
+
+2018-12-03 22:18:10 - [TEST_STEP][PASSED] - println(EmailV): null
+
+2018-12-03 22:18:10 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2018-12-03 22:18:11 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 22:18:11 - [TEST_STEP][PASSED] - AddV = getText(findTestObject("Object Repository/HeliumEdgeCCompanyValidations/M_Address")): Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Address' is: 'Address is a mandatory field'
+
+2018-12-03 22:18:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Address' is: 'Address is a mandatory field'
+
+2018-12-03 22:18:12 - [TEST_STEP][PASSED] - println(AddV): null
+
+2018-12-03 22:18:12 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2018-12-03 22:18:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-12-03 22:18:13 - [TEST_STEP][PASSED] - PhoneV = getText(findTestObject("Object Repository/HeliumEdgeCCompanyValidations/M_Phone")): Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Phone' is: 'Phone number is a mandatory field'
+
+2018-12-03 22:18:13 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeCCompanyValidations/M_Phone' is: 'Phone number is a mandatory field'
+
+2018-12-03 22:18:13 - [TEST_STEP][PASSED] - println(PhoneV): null
+
+2018-12-03 22:18:13 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2018-12-03 22:18:14 - [MESSAGE][PASSED] - Delayed 1 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/HeliumEdge_c_Company/HECC_004" classname="Test Cases/HeliumEdge_c_Company/HECC_004" status="PASSED">
+         <system-out><![CDATA[2018-12-03 22:18:14 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_c_Company/HECC_004: Test Cases/HeliumEdge_c_Company/HECC_004
+
+2018-12-03 22:18:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("HeliumEdge_Login/HEL_001"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:18:15 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_Login/HEL_001: Test Cases/HeliumEdge_Login/HEL_001
+
+2018-12-03 22:18:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-12-03 22:18:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-12-03 22:18:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-12-03 22:18:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-12-03 22:18:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-12-03 22:18:20 - [MESSAGE][PASSED] - Current window maximized
+
+2018-12-03 22:18:20 - [TEST_STEP][PASSED] - navigateToUrl(HeliumURL): Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:18:35 - [MESSAGE][PASSED] - Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-12-03 22:18:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:18:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:18:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/HeliumEdgeLogin/Email"), "bharatpatel@heliumedge.com"): Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:18:39 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-12-03 22:18:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:18:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:18:41 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/HeliumEdgeLogin/Password"), "5aLQ3jby8vDK+DxezdXnZw=="): Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:18:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-12-03 22:18:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-12-03 22:18:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-12-03 22:18:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeLogin/LoginButton")): Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:18:43 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-12-03 22:18:43 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-12-03 22:18:47 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-12-03 22:18:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/HeliumEdge_Login/HEL_001' successfully
+
+2018-12-03 22:18:47 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2018-12-03 22:18:52 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-12-03 22:18:52 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/Plus")): Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:18:53 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/Plus' is clicked on
+
+2018-12-03 22:18:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:18:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:18:56 - [TEST_STEP][PASSED] - click(findTestObject("HeliumEdgeCCompany/company")): Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:18:57 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompany/company' is clicked on
+
+2018-12-03 22:18:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:19:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:19:00 - [TEST_STEP][PASSED] - uploadFile(findTestObject("HeliumEdgeCCompanyLogo/Anotherlogo"), PngFile): File 'C:\Users\admin\Katalon Studio\HeliumAutomationProject\Credential\Image.png' sent to object: 'Object Repository/HeliumEdgeCCompanyLogo/Anotherlogo'
+
+2018-12-03 22:19:00 - [MESSAGE][PASSED] - File 'C:\Users\admin\Katalon Studio\HeliumAutomationProject\Credential\Image.png' sent to object: 'Object Repository/HeliumEdgeCCompanyLogo/Anotherlogo'
+
+2018-12-03 22:19:00 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:19:03 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:19:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/HeliumEdgeCCompanyLogo/DeleteLogo")): Object: 'Object Repository/HeliumEdgeCCompanyLogo/DeleteLogo' is clicked on
+
+2018-12-03 22:19:03 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeCCompanyLogo/DeleteLogo' is clicked on
+
+2018-12-03 22:19:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-12-03 22:19:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-12-03 22:19:06 - [TEST_STEP][PASSED] - uploadFile(findTestObject("HeliumEdgeCCompanyLogo/Anotherlogo"), JpgFile): File 'C:\Users\admin\Katalon Studio\HeliumAutomationProject\Credential\Image1.jpg' sent to object: 'Object Repository/HeliumEdgeCCompanyLogo/Anotherlogo'
+
+2018-12-03 22:19:06 - [MESSAGE][PASSED] - File 'C:\Users\admin\Katalon Studio\HeliumAutomationProject\Credential\Image1.jpg' sent to object: 'Object Repository/HeliumEdgeCCompanyLogo/Anotherlogo']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-12-03 22:15:04 - [TEST_SUITE][PASSED] - HE_c_CompanySuite: Test Cases/HeliumEdge_c_Company/HECC_004]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Field valid data pass and perform actions.
+Image Upload
+Private Contact toogle
+Tags
+Save and Close</description>
+   <name>HECC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef0d9415-aa68-469c-b201-bdbdee47b017</testCaseGuid>
+</TestCaseEntity>

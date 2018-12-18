@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+HE_LoginSuite,Chrome 70.0.3538.110,This testsuite will execute HEL_001 of valid credential and HEL_002 of various combinational credentials.,2018-12-03 21:59:49,2018-12-03 22:03:13,3m - 24.286s,FAILED
+,,,,,,
+Test Cases/HeliumEdge_Login/HEL_001,Chrome 70.0.3538.110,This test case login with valid credential.,2018-12-03 21:59:50,2018-12-03 22:00:29,38.873s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,Helium Edge login with valid credentials,2018-12-03 21:59:51,2018-12-03 22:00:00,8.604s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-12-03 22:00:00,2018-12-03 22:00:01,1.288s,PASSED
+navigateToUrl(HeliumURL),Chrome 70.0.3538.110,,2018-12-03 22:00:01,2018-12-03 22:00:16,14.874s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:00:16,2018-12-03 22:00:19,3.099s,PASSED
+"setText(findTestObject(""Object Repository/HeliumEdgeLogin/Email""), ""bharatpatel@heliumedge.com"")",Chrome 70.0.3538.110,,2018-12-03 22:00:19,2018-12-03 22:00:20,0.787s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-12-03 22:00:20,2018-12-03 22:00:22,2.007s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/HeliumEdgeLogin/Password""), ""5aLQ3jby8vDK+DxezdXnZw=="")",Chrome 70.0.3538.110,,2018-12-03 22:00:22,2018-12-03 22:00:23,0.599s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-12-03 22:00:23,2018-12-03 22:00:25,2.001s,PASSED
+"click(findTestObject(""Object Repository/HeliumEdgeLogin/LoginButton""))",Chrome 70.0.3538.110,,2018-12-03 22:00:25,2018-12-03 22:00:25,0.260s,PASSED
+delay(4),Chrome 70.0.3538.110,,2018-12-03 22:00:25,2018-12-03 22:00:29,4.001s,PASSED
+,,,,,,
+Test Cases/HeliumEdge_Login/HEL_002,Chrome 70.0.3538.110,"This test case pass various data into login form with datadriven method.
+All combinations cover through this testcase.",2018-12-03 22:00:29,2018-12-03 22:03:11,2m - 42.472s,FAILED
+"openBrowser("""")",Chrome 70.0.3538.110,Helium Edge login with various credentials,2018-12-03 22:00:31,2018-12-03 22:00:36,4.515s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-12-03 22:00:36,2018-12-03 22:00:37,1.208s,PASSED
+navigateToUrl(HeliumURL),Chrome 70.0.3538.110,,2018-12-03 22:00:37,2018-12-03 22:01:01,23.726s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:01:01,2018-12-03 22:01:04,3.004s,PASSED
+file = new java.io.FileInputStream(new java.io.File(internal.GlobalVariable.CredentialFile)),Chrome 70.0.3538.110,,2018-12-03 22:01:04,2018-12-03 22:01:04,0.103s,PASSED
+workbook = new org.apache.poi.xssf.usermodel.XSSFWorkbook(file),Chrome 70.0.3538.110,,2018-12-03 22:01:04,2018-12-03 22:01:06,1.890s,PASSED
+sheet = workbook.getSheetAt(0),Chrome 70.0.3538.110,,2018-12-03 22:01:06,2018-12-03 22:01:06,0.012s,PASSED
+Rowcount = sheet.getLastRowNum(),Chrome 70.0.3538.110,,2018-12-03 22:01:06,2018-12-03 22:01:06,0.092s,PASSED
+"for ([row = 1, row <= Rowcount, (row++)])",Chrome 70.0.3538.110,,2018-12-03 22:01:06,2018-12-03 22:03:11,2m - 5.731s,FAILED

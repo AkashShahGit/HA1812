@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="HE_LoginSuite" time="164" tests="2" failures="0" errors="0">
+   <testsuite name="HE_LoginSuite" tests="2" failures="0" errors="0" time="164" timestamp="2018-11-24 12:05:43" hostname="admin - DESKTOP-FJO92VH" id="Test Suites/HE_LoginSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537"/>
+         <property name="logFiles" value="C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537\\1543041496787.png, C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537\\1543041497310.png"/>
+         <property name="hostName" value="admin - DESKTOP-FJO92VH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="192.168.43.142"/>
+         <property name="sessionId" value="c8ed28562f483327117242dbce75d1d6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/HeliumEdge_Login/HEL_001" classname="Test Cases/HeliumEdge_Login/HEL_001" status="PASSED">
+         <system-out><![CDATA[2018-11-24 12:05:44 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_Login/HEL_001: Test Cases/HeliumEdge_Login/HEL_001
+
+2018-11-24 12:05:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-11-24 12:05:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-11-24 12:05:53 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-11-24 12:05:55 - [MESSAGE][PASSED] - Current window maximized
+
+2018-11-24 12:05:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-11-24 12:06:06 - [MESSAGE][PASSED] - Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-11-24 12:06:06 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:06:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:06:09 - [TEST_STEP][PASSED] - setText: Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:06:11 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:06:11 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-11-24 12:06:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-24 12:06:13 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:06:14 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:06:14 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-11-24 12:06:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-24 12:06:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:06:16 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:06:16 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-11-24 12:06:20 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-11-24 12:06:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/Dashboard' is clicked on
+
+2018-11-24 12:06:22 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/Dashboard' is clicked on
+
+2018-11-24 12:06:22 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:06:25 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:06:25 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-11-24 12:06:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/HeliumEdge_Login/HEL_002" classname="Test Cases/HeliumEdge_Login/HEL_002" status="PASSED">
+         <system-out><![CDATA[2018-11-24 12:06:26 - [TEST_CASE][PASSED] - Test Cases/HeliumEdge_Login/HEL_002: Test Cases/HeliumEdge_Login/HEL_002
+
+2018-11-24 12:06:28 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-11-24 12:06:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-11-24 12:06:32 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-11-24 12:06:33 - [MESSAGE][PASSED] - Current window maximized
+
+2018-11-24 12:06:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-11-24 12:06:43 - [MESSAGE][PASSED] - Navigate to 'http://qa.heliumats.com/#/login' successfully
+
+2018-11-24 12:06:43 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:06:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:06:46 - [TEST_STEP][PASSED] - Statement - file = new java.io.FileInputStream(new java.io.File(internal.GlobalVariable.CredentialFile)): null
+
+2018-11-24 12:06:46 - [TEST_STEP][PASSED] - Statement - workbook = new org.apache.poi.xssf.usermodel.XSSFWorkbook(file): null
+
+2018-11-24 12:06:48 - [TEST_STEP][PASSED] - Statement - sheet = workbook.getSheetAt(0): null
+
+2018-11-24 12:06:48 - [TEST_STEP][PASSED] - Statement - Rowcount = sheet.getLastRowNum(): null
+
+2018-11-24 12:06:48 - [TEST_STEP][FAILED] - Statement - For ([row = 1, row <= Rowcount, (row++)]): Delayed 4 second(s)
+
+2018-11-24 12:06:48 - [TEST_STEP][PASSED] - Statement - Username = sheet.getRow(row).getCell(0).getStringCellValue().trim(): null
+
+2018-11-24 12:06:48 - [TEST_STEP][PASSED] - setText: Text 'invalidemail@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:06:49 - [MESSAGE][PASSED] - Text 'invalidemail@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:06:49 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:06:52 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:06:52 - [TEST_STEP][PASSED] - Statement - Password = sheet.getRow(row).getCell(1).getStringCellValue(): null
+
+2018-11-24 12:06:52 - [TEST_STEP][PASSED] - setText: Text 'akashshah' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:06:53 - [MESSAGE][PASSED] - Text 'akashshah' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:06:53 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:06:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:06:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:06:56 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:06:56 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-11-24 12:07:02 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-11-24 12:07:02 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-11-24 12:07:02 - [TEST_STEP][PASSED] - Statement - ValidationMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/HeliumEdgeLoginValidation/LoginFailed)): Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:02 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:02 - [TEST_STEP][PASSED] - Statement - println(ValidationMessage): null
+
+2018-11-24 12:07:02 - [TEST_STEP][PASSED] - Statement - Username = sheet.getRow(row).getCell(0).getStringCellValue().trim(): null
+
+2018-11-24 12:07:02 - [TEST_STEP][PASSED] - setText: Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:04 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:04 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:07 - [TEST_STEP][PASSED] - Statement - Password = sheet.getRow(row).getCell(1).getStringCellValue(): null
+
+2018-11-24 12:07:07 - [TEST_STEP][PASSED] - setText: Text 'invalidpassword' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:07 - [MESSAGE][PASSED] - Text 'invalidpassword' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:07 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:10 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:10 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-11-24 12:07:16 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-11-24 12:07:16 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-11-24 12:07:16 - [TEST_STEP][PASSED] - Statement - ValidationMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/HeliumEdgeLoginValidation/LoginFailed)): Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:17 - [TEST_STEP][PASSED] - Statement - println(ValidationMessage): null
+
+2018-11-24 12:07:17 - [TEST_STEP][PASSED] - Statement - Username = sheet.getRow(row).getCell(0).getStringCellValue().trim(): null
+
+2018-11-24 12:07:17 - [TEST_STEP][PASSED] - setText: Text 'emailidinvalid@gmail.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:18 - [MESSAGE][PASSED] - Text 'emailidinvalid@gmail.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:18 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:21 - [TEST_STEP][PASSED] - Statement - Password = sheet.getRow(row).getCell(1).getStringCellValue(): null
+
+2018-11-24 12:07:21 - [TEST_STEP][PASSED] - setText: Text 'bharatpatel' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:21 - [MESSAGE][PASSED] - Text 'bharatpatel' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:21 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:24 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:24 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-11-24 12:07:30 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-11-24 12:07:30 - [TEST_STEP][PASSED] - Statement - Try: null
+
+2018-11-24 12:07:30 - [TEST_STEP][PASSED] - Statement - ValidationMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/HeliumEdgeLoginValidation/LoginFailed)): Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:30 - [MESSAGE][PASSED] - Text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' is: 'Login Failed! Please check email and password'
+
+2018-11-24 12:07:30 - [TEST_STEP][PASSED] - Statement - println(ValidationMessage): null
+
+2018-11-24 12:07:30 - [TEST_STEP][PASSED] - Statement - Username = sheet.getRow(row).getCell(0).getStringCellValue().trim(): null
+
+2018-11-24 12:07:30 - [TEST_STEP][PASSED] - setText: Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:32 - [MESSAGE][PASSED] - Text 'bharatpatel@heliumedge.com' is set on object 'Object Repository/HeliumEdgeLogin/Email'
+
+2018-11-24 12:07:32 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:35 - [TEST_STEP][PASSED] - Statement - Password = sheet.getRow(row).getCell(1).getStringCellValue(): null
+
+2018-11-24 12:07:35 - [TEST_STEP][PASSED] - setText: Text 'bharatpatel' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:35 - [MESSAGE][PASSED] - Text 'bharatpatel' is set on object 'Object Repository/HeliumEdgeLogin/Password'
+
+2018-11-24 12:07:35 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2018-11-24 12:07:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-24 12:07:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:38 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogin/LoginButton' is clicked on
+
+2018-11-24 12:07:38 - [TEST_STEP][PASSED] - delay: Delayed 6 second(s)
+
+2018-11-24 12:07:44 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+2018-11-24 12:07:44 - [TEST_STEP][FAILED] - Statement - Try: Unable to get text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' located by 'By.xpath: //*[(text() = 'Login Failed! Please check email and password' or . = 'Login Failed! Please check email and password')]' not found)
+
+2018-11-24 12:07:44 - [TEST_STEP][FAILED] - Statement - ValidationMessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/HeliumEdgeLoginValidation/LoginFailed)): Unable to get text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' located by 'By.xpath: //*[(text() = 'Login Failed! Please check email and password' or . = 'Login Failed! Please check email and password')]' not found)
+
+2018-11-24 12:08:17 - [MESSAGE][FAILED] - Unable to get text of object 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/HeliumEdgeLoginValidation/LoginFailed' located by 'By.xpath: //*[(text() = 'Login Failed! Please check email and password' or . = 'Login Failed! Please check email and password')]' not found)
+[[ATTACHMENT|C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537\\1543041496787.png]]
+
+2018-11-24 12:08:17 - [TEST_STEP][PASSED] - Statement - Catch (Exception e): Delayed 4 second(s)
+
+2018-11-24 12:08:17 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-11-24 12:08:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Reports\\HE_LoginSuite\\20181124_120537\\1543041497310.png]]
+
+2018-11-24 12:08:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogout/Userclick' is clicked on
+
+2018-11-24 12:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogout/Userclick' is clicked on
+
+2018-11-24 12:08:17 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-11-24 12:08:21 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-11-24 12:08:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HeliumEdgeLogout/LogoutButton' is clicked on
+
+2018-11-24 12:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/HeliumEdgeLogout/LogoutButton' is clicked on
+
+2018-11-24 12:08:22 - [TEST_STEP][PASSED] - delay: Delayed 4 second(s)
+
+2018-11-24 12:08:26 - [MESSAGE][PASSED] - Delayed 4 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-24 12:05:43 - [TEST_SUITE][PASSED] - HE_LoginSuite: Test Cases/HeliumEdge_Login/HEL_002]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

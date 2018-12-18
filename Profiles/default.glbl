@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://qa.heliumats.com/#/login'</initValue>
+      <name>HeliumURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Credential/LoginCredential.xlsx'</initValue>
+      <name>CredentialFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\Image.png'</initValue>
+      <name>PngFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\Image1.jpg'</initValue>
+      <name>JpgFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\Event.docx'</initValue>
+      <name>Event</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\TommorrowLand.docx'</initValue>
+      <name>Event1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\alliabhatt.jpg'</initValue>
+      <name>ContactFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\admin\\Katalon Studio\\HeliumAutomationProject\\Credential\\alliabhatt1.jpg'</initValue>
+      <name>ContactFile1</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

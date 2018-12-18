@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill Fileds and Create Job with valid data.
+Save&amp;Close</description>
+   <name>HECJ_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>182cd2e5-e49f-4be0-b6ca-f19621dee0b5</testCaseGuid>
+</TestCaseEntity>

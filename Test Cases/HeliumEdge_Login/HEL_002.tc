@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case pass various data into login form with datadriven method.
+All combinations cover through this testcase.</description>
+   <name>HEL_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adb828d7-2daf-4007-a80c-6d827a14aef1</testCaseGuid>
+</TestCaseEntity>

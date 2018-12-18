@@ -1,0 +1,92 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+HE_c_CompanySuite,Chrome 70.0.3538.110,"HE--Create Company\nHE--Check Validation Messages\nHE--Add Logo Feature\nNote : Add Functionality (Email,Phone,Website) not working it's in HECC_003 UnderProcess (Kept it ignore for now)",2018-12-03 22:15:04,2018-12-03 22:19:08,4m - 3.502s,PASSED
+,,,,,,
+Test Cases/HeliumEdge_c_Company/HECC_001,Chrome 70.0.3538.110,"New company creation.
+Covering manadatory fields.",2018-12-03 22:15:05,2018-12-03 22:17:19,2m - 13.577s,PASSED
+"callTestCase(findTestCase(""HeliumEdge_Login/HEL_001""), [:], STOP_ON_FAILURE)",Chrome 70.0.3538.110,,2018-12-03 22:15:07,2018-12-03 22:15:43,36.104s,PASSED
+delay(5),Chrome 70.0.3538.110,,2018-12-03 22:15:43,2018-12-03 22:15:48,5.006s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Plus""))",Chrome 70.0.3538.110,,2018-12-03 22:15:48,2018-12-03 22:15:48,0.207s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:15:48,2018-12-03 22:15:51,3.004s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/company""))",Chrome 70.0.3538.110,,2018-12-03 22:15:51,2018-12-03 22:15:52,1.102s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:15:52,2018-12-03 22:15:56,3.005s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/CompanyName""), ""Malabar Fashion"")",Chrome 70.0.3538.110,,2018-12-03 22:15:56,2018-12-03 22:15:57,1.250s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:15:57,2018-12-03 22:16:00,3.004s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Email""), ""john@gmail.com"")",Chrome 70.0.3538.110,,2018-12-03 22:16:00,2018-12-03 22:16:01,0.952s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:01,2018-12-03 22:16:04,3.004s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Industry""))",Chrome 70.0.3538.110,,2018-12-03 22:16:04,2018-12-03 22:16:04,0.396s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:04,2018-12-03 22:16:07,3.006s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Industry_Advertise""))",Chrome 70.0.3538.110,,2018-12-03 22:16:07,2018-12-03 22:16:07,0.279s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:07,2018-12-03 22:16:10,3.007s,PASSED
+"scrollToPosition(50, 60)",Chrome 70.0.3538.110,,2018-12-03 22:16:10,2018-12-03 22:16:11,0.120s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Address""), ""Block Island, Rhode Island, Washington- 2807"")",Chrome 70.0.3538.110,,2018-12-03 22:16:11,2018-12-03 22:16:13,2.580s,PASSED
+delay(4),Chrome 70.0.3538.110,,2018-12-03 22:16:13,2018-12-03 22:16:17,4.004s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/AddressSelector""))",Chrome 70.0.3538.110,,2018-12-03 22:16:17,2018-12-03 22:16:17,0.356s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:17,2018-12-03 22:16:20,3.002s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Phone""), ""1234567890"")",Chrome 70.0.3538.110,,2018-12-03 22:16:20,2018-12-03 22:16:21,0.739s,PASSED
+delay(4),Chrome 70.0.3538.110,,2018-12-03 22:16:21,2018-12-03 22:16:25,4.004s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/PhoneExt""), ""12345"")",Chrome 70.0.3538.110,,2018-12-03 22:16:25,2018-12-03 22:16:26,0.535s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:26,2018-12-03 22:16:29,3.004s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Fax""), ""123456789012345"")",Chrome 70.0.3538.110,,2018-12-03 22:16:29,2018-12-03 22:16:30,0.793s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:30,2018-12-03 22:16:33,3.007s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Linkedin""), ""https://linkedin.com/john"")",Chrome 70.0.3538.110,,2018-12-03 22:16:33,2018-12-03 22:16:34,1.369s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:34,2018-12-03 22:16:37,3.004s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Facebook""), ""https://www.facebook.com/john"")",Chrome 70.0.3538.110,,2018-12-03 22:16:37,2018-12-03 22:16:38,1.233s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:38,2018-12-03 22:16:41,3.002s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Skype""), ""john001"")",Chrome 70.0.3538.110,,2018-12-03 22:16:41,2018-12-03 22:16:42,0.524s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:42,2018-12-03 22:16:45,3.001s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Website""), ""www.john.com"")",Chrome 70.0.3538.110,,2018-12-03 22:16:45,2018-12-03 22:16:45,0.612s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:45,2018-12-03 22:16:48,3.005s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/Pfc""), ""5000"")",Chrome 70.0.3538.110,,2018-12-03 22:16:48,2018-12-03 22:16:49,0.434s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:49,2018-12-03 22:16:52,3.004s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Paymentterms""))",Chrome 70.0.3538.110,,2018-12-03 22:16:52,2018-12-03 22:16:52,0.302s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:52,2018-12-03 22:16:55,3.003s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/pmttermselect""))",Chrome 70.0.3538.110,,2018-12-03 22:16:55,2018-12-03 22:16:55,0.444s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:55,2018-12-03 22:16:58,3.002s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/contact""), ""j"")",Chrome 70.0.3538.110,,2018-12-03 22:16:58,2018-12-03 22:16:59,0.469s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:16:59,2018-12-03 22:17:02,3.002s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/contactselect""))",Chrome 70.0.3538.110,,2018-12-03 22:17:02,2018-12-03 22:17:02,0.329s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:17:02,2018-12-03 22:17:05,3.003s,PASSED
+"click(findTestObject(""Object Repository/HeliumEdgeCCompany/Role""))",Chrome 70.0.3538.110,,2018-12-03 22:17:05,2018-12-03 22:17:06,0.287s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-12-03 22:17:06,2018-12-03 22:17:08,2.003s,PASSED
+"click(findTestObject(""Object Repository/HeliumEdgeCCompany/RoleSelector""))",Chrome 70.0.3538.110,,2018-12-03 22:17:08,2018-12-03 22:17:08,0.306s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:17:08,2018-12-03 22:17:11,3.003s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Description""))",Chrome 70.0.3538.110,,2018-12-03 22:17:11,2018-12-03 22:17:11,0.278s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:17:11,2018-12-03 22:17:14,3.003s,PASSED
+"setText(findTestObject(""HeliumEdgeCCompany/DescriptionEnter""), ""This is a Description...!"")",Chrome 70.0.3538.110,,2018-12-03 22:17:14,2018-12-03 22:17:15,1.235s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Saveandclose""))",Chrome 70.0.3538.110,,2018-12-03 22:17:15,2018-12-03 22:17:16,0.270s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:17:16,2018-12-03 22:17:19,3.001s,PASSED
+,,,,,,
+Test Cases/HeliumEdge_c_Company/HECC_002,Chrome 70.0.3538.110,Validation message occur check for mandatory fields.,2018-12-03 22:17:19,2018-12-03 22:18:14,54.978s,PASSED
+"callTestCase(findTestCase(""HeliumEdge_Login/HEL_001""), [:], STOP_ON_FAILURE)",Chrome 70.0.3538.110,,2018-12-03 22:17:19,2018-12-03 22:17:54,34.046s,PASSED
+delay(5),Chrome 70.0.3538.110,,2018-12-03 22:17:54,2018-12-03 22:17:59,5.005s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Plus""))",Chrome 70.0.3538.110,,2018-12-03 22:17:59,2018-12-03 22:17:59,0.262s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:17:59,2018-12-03 22:18:02,3.002s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/company""))",Chrome 70.0.3538.110,,2018-12-03 22:18:02,2018-12-03 22:18:03,0.982s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:18:03,2018-12-03 22:18:06,3.001s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Saveandclose""))",Chrome 70.0.3538.110,,2018-12-03 22:18:06,2018-12-03 22:18:06,0.288s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:18:06,2018-12-03 22:18:09,3.002s,PASSED
+"CompanyNameV = getText(findTestObject(""Object Repository/HeliumEdgeCCompanyValidations/M_Comapnyname""))",Chrome 70.0.3538.110,,2018-12-03 22:18:09,2018-12-03 22:18:09,0.192s,PASSED
+println(CompanyNameV),Chrome 70.0.3538.110,,2018-12-03 22:18:09,2018-12-03 22:18:09,0.005s,PASSED
+delay(1),Chrome 70.0.3538.110,,2018-12-03 22:18:09,2018-12-03 22:18:10,1.003s,PASSED
+"EmailV = getText(findTestObject(""Object Repository/HeliumEdgeCCompanyValidations/M_Emailid""))",Chrome 70.0.3538.110,,2018-12-03 22:18:10,2018-12-03 22:18:10,0.180s,PASSED
+println(EmailV),Chrome 70.0.3538.110,,2018-12-03 22:18:10,2018-12-03 22:18:10,0.000s,PASSED
+delay(1),Chrome 70.0.3538.110,,2018-12-03 22:18:10,2018-12-03 22:18:11,1.008s,PASSED
+"AddV = getText(findTestObject(""Object Repository/HeliumEdgeCCompanyValidations/M_Address""))",Chrome 70.0.3538.110,,2018-12-03 22:18:11,2018-12-03 22:18:12,0.136s,PASSED
+println(AddV),Chrome 70.0.3538.110,,2018-12-03 22:18:12,2018-12-03 22:18:12,0.001s,PASSED
+delay(1),Chrome 70.0.3538.110,,2018-12-03 22:18:12,2018-12-03 22:18:13,1.002s,PASSED
+"PhoneV = getText(findTestObject(""Object Repository/HeliumEdgeCCompanyValidations/M_Phone""))",Chrome 70.0.3538.110,,2018-12-03 22:18:13,2018-12-03 22:18:13,0.119s,PASSED
+println(PhoneV),Chrome 70.0.3538.110,,2018-12-03 22:18:13,2018-12-03 22:18:13,0.002s,PASSED
+delay(1),Chrome 70.0.3538.110,,2018-12-03 22:18:13,2018-12-03 22:18:14,1.002s,PASSED
+,,,,,,
+Test Cases/HeliumEdge_c_Company/HECC_004,Chrome 70.0.3538.110,Logo scenarios added in this testcase.,2018-12-03 22:18:14,2018-12-03 22:19:06,52.665s,PASSED
+"callTestCase(findTestCase(""HeliumEdge_Login/HEL_001""), [:], STOP_ON_FAILURE)",Chrome 70.0.3538.110,,2018-12-03 22:18:15,2018-12-03 22:18:47,32.810s,PASSED
+delay(5),Chrome 70.0.3538.110,,2018-12-03 22:18:47,2018-12-03 22:18:52,5.006s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/Plus""))",Chrome 70.0.3538.110,,2018-12-03 22:18:52,2018-12-03 22:18:53,0.196s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:18:53,2018-12-03 22:18:56,3.003s,PASSED
+"click(findTestObject(""HeliumEdgeCCompany/company""))",Chrome 70.0.3538.110,,2018-12-03 22:18:56,2018-12-03 22:18:57,1.153s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:18:57,2018-12-03 22:19:00,3.004s,PASSED
+"uploadFile(findTestObject(""HeliumEdgeCCompanyLogo/Anotherlogo""), PngFile)",Chrome 70.0.3538.110,,2018-12-03 22:19:00,2018-12-03 22:19:00,0.225s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:19:00,2018-12-03 22:19:03,3.004s,PASSED
+"click(findTestObject(""Object Repository/HeliumEdgeCCompanyLogo/DeleteLogo""))",Chrome 70.0.3538.110,,2018-12-03 22:19:03,2018-12-03 22:19:03,0.367s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-12-03 22:19:03,2018-12-03 22:19:06,3.003s,PASSED
+"uploadFile(findTestObject(""HeliumEdgeCCompanyLogo/Anotherlogo""), JpgFile)",Chrome 70.0.3538.110,,2018-12-03 22:19:06,2018-12-03 22:19:06,0.094s,PASSED
